@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Welshminion
-- 👀 My pronouns are: he/him
-- 🌱 I’m currently learning Visual Basic for GCSE.
-- 📫 How to reach me: bickboch23@gmail.com(slow response times), Lt. Welsh#0000
+- 👀 My pronouns are: any/all
+- 📫 How to reach me: Email: bickboch23@gmail.com (slow response times), Discord: that_welsh_person
 
 <!---
 Welshminion/Welshminion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
